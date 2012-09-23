@@ -5,6 +5,7 @@ COLLISION DETECTION
 
 dog collide
 cat collide
+REAL COLLISION
 
 BIG MASTER CHANGE
 
